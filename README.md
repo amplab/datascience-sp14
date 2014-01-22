@@ -1,4 +1,4 @@
-datascience-sp14
+Introduction to Data Science
 ================
 
-Repository for data science course Spring 14
+Repository for UC Berkeley's "Introduction to Data Science" course in Spring 2014
