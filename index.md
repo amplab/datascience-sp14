@@ -15,17 +15,20 @@ manipulate data sets with code.
 
 ## Logistics
 
+* Course Number: CS 194-16, Spring 2014, UC Berkeley
 * Instructor: [Mike Franklin](http://cs.berkeley.edu/~franklin)
 * Time: Monday, 5.30pm - 8.30pm
 * Location: 145 Moffit
 * Teaching Assistants: Daniel Bruckner, Evan Sparks and Shivaram Venkataraman
-* Discussion: [Piazza](https://piazza.com/class/ho9kqs2efao27y)
+* Discussion: Join [Piazza](https://piazza.com/class/ho9kqs2efao27y) for
+  announcements and to ask questions about the course
 * Office hours: TBD
 
 ## Pre-requisites
 Pre-requisites for this course include 61A, 61B, 61C and basic programming
 skills. Knowledge of Python will be useful for the assignments. Students
-will also be expected to run VirtualBox on their laptops for the assignments.
+will also be expected to run [VirtualBox](https://www.virtualbox.org/) on their laptops
+for the assignments.
 
 ## Grading Policies
 To be announced
