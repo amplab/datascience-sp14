@@ -34,6 +34,6 @@ To test that your machine is set up properly, run the following from a terminal 
 3. Hit the 'Play' button on the toolbar.
 4. You should end up with something like this:
 
-![](/assets/ipythonsetup50.png)
+![](assets/ipythonsetup50.png)
 
 5. Close firefox, hit Control-C and Y to exit.

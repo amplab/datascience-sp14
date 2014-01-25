@@ -3,5 +3,5 @@ lsi: false
 pygments: true
 
 markdown: kramdown
-permalink: pretty
+permalink: none
 name: Introduction to Data Science

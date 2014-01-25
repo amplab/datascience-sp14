@@ -32,7 +32,7 @@ for the assignments.
 
 Please take the class survey [here](https://docs.google.com/a/berkeley.edu/forms/d/1LWuhIdR8_y7FX2WeI5wAlwX2vDeaPo1E5ghAeUHUEBs/viewform).
 
-Plese set up your machine according to [these instuctions](setup).
+Plese set up your machine according to [these instuctions](setup.html).
 
 ## Grading Policies
 To be announced
