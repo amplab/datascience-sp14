@@ -30,6 +30,8 @@ skills. Knowledge of Python will be useful for the assignments. Students
 will also be expected to run [VirtualBox](https://www.virtualbox.org/) on their laptops
 for the assignments.
 
+Plese set up your machine according to [these instuctions](setup).
+
 ## Grading Policies
 To be announced
 
