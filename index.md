@@ -36,8 +36,12 @@ Please take the class survey [here](https://docs.google.com/a/berkeley.edu/forms
 
 Plese set up your machine according to [these instuctions](setup.html).
 
-## Grading Policies
-To be announced
+## Grading
+
+* Class Participation and in-class labs: 20%
+* Midterm: 20%
+* Final Project (in groups): 30%
+* Homeworks and "Bunnies": 30%
 
 ## Schedule
 
