@@ -59,5 +59,11 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>Introduction</td>
       <td></td>
     </tr>
+    <tr>
+      <td>2/3</td>
+      <td>Data Science Process</td>
+      <td><a href="http://vis.stanford.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf">Enterprise Data Analysis and Visualization: An Interview Study</a></td>
+    </tr>
+  </tbody>
   </tbody>
 </table>
