@@ -106,7 +106,7 @@ WorldCup website. The [complete
 dataset](http://ita.ee.lbl.gov/html/contrib/WorldCup.html) contains
 around 1.3 billion requests, and we will use a subset of it for this exercise.
 As a first step download the sample dataset using `curl` from
-`https://github.com/amplab/datascience-sp14/raw/master/lab1/data/wc_day6_1_log.tar.bz2` .
+`https://raw.github.com/amplab/datascience-sp14/master/lab1/data/wc_day6_1_log.tar.bz2` .
 
 The dataset has been compressed to make the download finish faster. To get the
 raw data unzip the downloaded file by running `tar -xf <filename>`. (Note: `tar`
@@ -238,7 +238,7 @@ table) instead of for analysis.
 
 For this exercise, we will be working with one such example.  Download the file
 worldcup.txt from
-`https://github.com/amplab/datascience-14/raw/master/lab1/data/worldcup.txt`
+`https://raw.github.com/amplab/datascience-sp14/master/lab1/data/worldcup.txt`
 (e.g., with `curl` or `wget`).  This file contains the source of a wiki table
 listing top finishers in the soccer (football?) World Cup since 1938.
 
