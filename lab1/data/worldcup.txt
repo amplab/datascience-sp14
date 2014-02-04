@@ -1,0 +1,173 @@
+! Team !! Titles !! Runners-up !! Third place !! Fourth place !! Top 4 <br/> finishes
+|-
+|bgcolor=#FFF68F|{{fb|BRA}}
+|bgcolor=#FFF68F|5 ([[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]])
+|2 ([[1950 FIFA World Cup|1950]][[#1|*]], [[1998 FIFA World Cup|1998]])
+|2 ([[1938 FIFA World Cup|1938]], [[1978 FIFA World Cup|1978]])
+|1 ([[1974 FIFA World Cup|1974]])
+|10
+|-
+|bgcolor=#FFF68F|{{fb|ITA}}
+|bgcolor=#FFF68F|4 ([[1934 FIFA World Cup|1934]][[#1|*]], [[1938 FIFA World Cup|1938]], [[1982 FIFA World Cup|1982]], [[2006 FIFA World Cup|2006]])
+|2 ([[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]])
+|1 ([[1990 FIFA World Cup|1990]][[#1|*]])
+|1 ([[1978 FIFA World Cup|1978]])
+|8
+|-
+|bgcolor=#FFF68F|{{fb|GER}}[[#2|^]]
+|bgcolor=#FFF68F|3 ([[1954 FIFA World Cup|1954]], [[1974 FIFA World Cup|1974]][[#1|*]], [[1990 FIFA World Cup|1990]])
+|4 ([[1966 FIFA World Cup|1966]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[2002 FIFA World Cup|2002]])
+|4 ([[1934 FIFA World Cup|1934]], [[1970 FIFA World Cup|1970]], [[2006 FIFA World Cup|2006*]], [[2010 FIFA World Cup|2010]])
+|1 ([[1958 FIFA World Cup|1958]])
+|12
+|-
+|bgcolor=#FFF68F|{{fb|ARG}}
+|bgcolor=#FFF68F|2 ([[1978 FIFA World Cup|1978]][[#1|*]], [[1986 FIFA World Cup|1986]])
+|2 ([[1930 FIFA World Cup|1930]], [[1990 FIFA World Cup|1990]])
+|align=center| —
+|align=center| —
+|4
+|-
+|bgcolor=#FFF68F|{{fb|URU}}
+|bgcolor=#FFF68F|2 ([[1930 FIFA World Cup|1930]][[#1|*]], [[1950 FIFA World Cup|1950]])
+|align=center| —
+|align=center| —
+|3 ([[1954 FIFA World Cup|1954]], [[1970 FIFA World Cup|1970]], [[2010 FIFA World Cup|2010]])
+|5
+|-
+|bgcolor=#FFF68F|{{fb|FRA}}
+|bgcolor=#FFF68F|1 ([[1998 FIFA World Cup|1998]][[#1|*]])
+|1 ([[2006 FIFA World Cup|2006]])
+|2 ([[1958 FIFA World Cup|1958]], [[1986 FIFA World Cup|1986]])
+|1 ([[1982 FIFA World Cup|1982]])
+|5
+|-
+|bgcolor=#FFF68F|{{fb|ENG}}
+|bgcolor=#FFF68F|1 ([[1966 FIFA World Cup|1966]][[#1|*]])
+|align=center| —
+|align=center| —
+|1 ([[1990 FIFA World Cup|1990]])
+|2
+|-
+|bgcolor=#FFF68F|{{fb|ESP}}
+|bgcolor=#FFF68F|1 ([[2010 FIFA World Cup|2010]])
+|align=center| —
+|align=center| —
+|1 ([[1950 FIFA World Cup|1950]])
+|2 
+|-
+|{{fb|NED}}
+|align=center| —
+|3 ([[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[2010 FIFA World Cup|2010]])
+|align=center| —
+|1 ([[1998 FIFA World Cup|1998]])
+|4
+|-
+|{{fb|TCH}}<sup>[[#3|#]]</sup>
+|align=center| —
+|2 ([[1934 FIFA World Cup|1934]], [[1962 FIFA World Cup|1962]])
+|align=center| —
+|align=center| —
+|2
+|-
+|{{fb|HUN}}
+|align=center| —
+|2 ([[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]])
+|align=center| —
+|align=center| —
+|2
+|-
+|{{fb|SWE}}
+|align=center| —
+|1 ([[1958 FIFA World Cup|1958]][[#1|*]])
+|2 ([[1950 FIFA World Cup|1950]], [[1994 FIFA World Cup|1994]])
+|1 ([[1938 FIFA World Cup|1938]])
+|4
+|-
+|{{fb|POL}}
+|align=center| —
+|align=center| —
+|2 ([[1974 FIFA World Cup|1974]], [[1982 FIFA World Cup|1982]])
+|align=center| —
+|2
+|-
+|{{fb|AUT}}
+|align=center| —
+|align=center| —
+|1 ([[1954 FIFA World Cup|1954]])
+|1 ([[1934 FIFA World Cup|1934]])
+|2
+|-
+|{{fb|POR}}
+|align=center| —
+|align=center| —
+|1 ([[1966 FIFA World Cup|1966]])
+|1 ([[2006 FIFA World Cup|2006]])
+|2
+|-
+|{{fb|USA}}
+|align=center| —
+|align=center| —
+|1 ([[1930 FIFA World Cup|1930]])
+|align=center| —
+|1
+|-
+|{{fb|CHI}}
+|align=center| —
+|align=center| —
+|1 ([[1962 FIFA World Cup|1962]][[#1|*]])
+|align=center| —
+|1
+|-
+|{{fb|CRO}}
+|align=center| —
+|align=center| —
+|1 ([[1998 FIFA World Cup|1998]])
+|align=center| —
+|1
+|-
+|{{fb|TUR}}
+|align=center| —
+|align=center| —
+|1 ([[2002 FIFA World Cup|2002]])
+|align=center| —
+|1
+|-
+|{{fb|YUG}}<sup>[[#3|#]]</sup>
+|align=center| —
+|align=center| —
+|align=center| —
+|2 ([[1930 FIFA World Cup|1930]], [[1962 FIFA World Cup|1962]])
+|2
+|-
+|{{fb|URS}}<sup>[[#3|#]]</sup>
+|align=center| —
+|align=center| —
+|align=center| —
+|1 ([[1966 FIFA World Cup|1966]])
+|1
+|-
+|{{fb|BEL}}
+|align=center| —
+|align=center| —
+|align=center| —
+|1 ([[1986 FIFA World Cup|1986]])
+|1
+|-
+|{{fb|BUL}}
+|align=center| —
+|align=center| —
+|align=center| —
+|1 ([[1994 FIFA World Cup|1994]])
+|1
+|-
+|{{fb|KOR}}
+|align=center| —
+|align=center| —
+|align=center| —
+|1 ([[2002 FIFA World Cup|2002]][[#1|*]])
+|1
+|-
+:<div id="1">''<nowiki>*</nowiki> = hosts''
+:<div id="2">''<nowiki>^</nowiki> = includes results [[List of men's national association football teams#Former_national_football_teams|representing West Germany between 1954 and 1990]]''</div>
+:<div id="3">''<sup><nowiki>#</nowiki></sup> = [[List of men's national association football teams#Former_national_football_teams|states that have since split into two or more independent nations]]''<ref name="successor"/></div>
