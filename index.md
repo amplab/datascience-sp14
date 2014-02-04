@@ -65,9 +65,12 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>2/3</td>
       <td>Data Science Process</td>
       <td><a href="http://vis.stanford.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf">Enterprise Data Analysis and Visualization: An Interview Study</a></td>
-      <td><a href="http://goo.gl/SqDnW6">Bunny 1</a> by 5pm on 2/3
-          <br>
-          <a href="https://github.com/amplab/datascience-sp14/tree/master/lab1">Lab 1</a></td>
+      <td>
+        <a href="http://goo.gl/SqDnW6">Bunny 1</a> by 5pm on 2/3
+        <br>
+        <a href="https://github.com/amplab/datascience-sp14/tree/master/lab1">Lab 1</a> |
+        <a href="http://goo.gl/VPhVGW">Responses</a>
+      </td>
     </tr>
   </tbody>
   </tbody>
