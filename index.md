@@ -68,8 +68,18 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>
         <a href="http://goo.gl/SqDnW6">Bunny 1</a> by 5pm on 2/3
         <br>
-        <a href="https://github.com/amplab/datascience-sp14/tree/master/lab1">Lab 1</a> |
-        <a href="http://goo.gl/VPhVGW">Responses</a>
+        <a href="https://github.com/amplab/datascience-sp14/tree/master/lab1">Lab 1</a>
+        <!-- | <a href="http://goo.gl/VPhVGW">Responses</a> -->
+      </td>
+    </tr>
+    <tr>
+      <td>2/10</td>
+      <td>Data Modeling</td>
+      <td><a href="http://www.eecs.berkeley.edu/~franklin/Papers/dataspaceSR.pdf">From Databases to Dataspaces: A New Abstraction for Information Management</a>
+        <br>
+        <a href="http://hadapt.com/schemaless-sql-overview/">Schemaless SQL</a> and <a href="http://www.youtube.com/watch?v=cfEYEah1XMg">Schema on Write vs. Schema on Read</a>
+      </td>
+      <td>
       </td>
     </tr>
   </tbody>
