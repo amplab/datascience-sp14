@@ -80,6 +80,7 @@ Plese set up your machine according to [these instuctions](setup.html).
         <a href="http://hadapt.com/schemaless-sql-overview/">Schemaless SQL</a> and <a href="http://www.youtube.com/watch?v=cfEYEah1XMg">Schema on Write vs. Schema on Read</a>
       </td>
       <td>
+        <a href="http://goo.gl/X6ASom">Bunny 2</a> by 5pm on 2/10
       </td>
     </tr>
   </tbody>
