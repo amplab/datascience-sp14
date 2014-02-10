@@ -57,13 +57,13 @@ Plese set up your machine according to [these instuctions](setup.html).
   <tbody>
     <tr>
       <td>1/27</td>
-      <td>Introduction</td>
+      <td>Introduction/Data Science Process</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>2/3</td>
-      <td>Data Science Process</td>
+      <td>Data Preparation (w/Unix Shell Lab)</td>
       <td><a href="http://vis.stanford.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf">Enterprise Data Analysis and Visualization: An Interview Study</a></td>
       <td>
         <a href="http://goo.gl/SqDnW6">Bunny 1</a> by 5pm on 2/3
@@ -74,7 +74,7 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
     <tr>
       <td>2/10</td>
-      <td>Data Modeling</td>
+      <td>Tabular Data (w/Pandas Lab)</td>
       <td><a href="http://www.eecs.berkeley.edu/~franklin/Papers/dataspaceSR.pdf">From Databases to Dataspaces: A New Abstraction for Information Management</a>
         <br>
         <a href="http://hadapt.com/schemaless-sql-overview/">Schemaless SQL</a> and <a href="http://www.youtube.com/watch?v=cfEYEah1XMg">Schema on Write vs. Schema on Read</a>
