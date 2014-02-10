@@ -83,6 +83,20 @@ Plese set up your machine according to [these instuctions](setup.html).
         <a href="http://goo.gl/X6ASom">Bunny 2</a> by 5pm on 2/10
       </td>
     </tr>
+    <tr>
+      <td>2/14</td>
+      <td></td>
+      <td>Homework 1 out. Due by 2/28</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>2/17</td>
+      <td></td>
+      <td>No class - President's Day</td>
+      <td>
+      </td>
+    </tr>
   </tbody>
   </tbody>
 </table>
