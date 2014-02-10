@@ -3,7 +3,7 @@ title: CS194-16 Introduction to Data Science
 layout: default
 ---
 
-# Introduction to Data Science
+# CS 194-16 Introduction to Data Science - UC Berkeley, Spring 2014
 
 Organizations use their data for decision support and to build data-intensive
 products and services. The collection of skills required by organizations to
