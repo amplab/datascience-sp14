@@ -24,7 +24,7 @@ manipulate data sets with code.
   announcements and to ask questions about the course
 * Office hours:
   - Mike Franklin - T 2.30-3.30, Th 3.30-4.30 at 449 Soda
-  - GSIs - M 1-2 at 449 Soda, W 11-12 at 751 Soda
+  - GSIs - M 2-3 at 449 Soda, W 11-12 at 751 Soda
 
 ## Pre-requisites
 Pre-requisites for this course include 61A, 61B, 61C and basic programming
