@@ -83,7 +83,7 @@ Plese set up your machine according to [these instuctions](setup.html).
         <a href="http://goo.gl/X6ASom">Bunny 2</a> by 5pm on 2/10
         <br>
         <a href="https://github.com/amplab/datascience-sp14/tree/master/lab2">Lab 2</a>
-        | <a href="http://goo.gl/FdlCwM">Responses</a>
+        <!-- | <a href="http://goo.gl/FdlCwM">Responses</a> -->
       </td>
     </tr>
     <tr>
