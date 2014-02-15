@@ -101,7 +101,7 @@ Plese set up your machine according to [these instuctions](setup.html).
     <tr>
       <td>2/14</td>
       <td></td>
-      <td>Homework 1 out. Due by 2/28</td>
+      <td><a href="http://goo.gl/Pkku0e">Homework 1</a> out. Due by 2/28</td>
       <td>
       </td>
     </tr>
