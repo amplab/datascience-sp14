@@ -40,8 +40,9 @@ Plese set up your machine according to [these instuctions](setup.html).
 
 * Class Participation and in-class labs: 20%
 * Midterm: 20%
-* Final Project (in groups): 30%
-* Homeworks and "Bunnies": 30%
+* Final Project (in groups): 25%
+* Homeworks : 30%
+* "Bunnies" : 5%
 
 ## Schedule
 
