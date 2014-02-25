@@ -85,7 +85,6 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>2/10</td>
       <td>Tabular Data (w/Pandas Lab) 
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfOHRmTkxQYmhWdHM/edit?usp=sharing">[PPTX]</a>
-        
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfR1BPeFlETndrLXc/edit?usp=sharing">[PDF]</a>
       </td>
       <td><a href="http://www.eecs.berkeley.edu/~franklin/Papers/dataspaceSR.pdf">From Databases to Dataspaces: A New Abstraction for Information Management</a>
@@ -111,6 +110,16 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td></td>
       <td>No class - President's Day</td>
       <td>
+      </td>
+    </tr>
+    <tr>
+      <td>2/24</td>
+      <td>Data Cleaning (w/Open Refine Lab)</td>
+      <td>
+      </td>
+      <td>
+        <a href="https://github.com/amplab/datascience-sp14/tree/master/lab3">Lab 3</a>
+        | <a href="http://goo.gl/fyzN4G">Responses</a>
       </td>
     </tr>
   </tbody>
