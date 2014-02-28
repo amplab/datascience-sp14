@@ -131,7 +131,7 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
         <tr>
       <td>2/24</td>
-      <td>Part 1 - Guest Lecture: <a href="http://www.linkedin.com/pub/josh-wills/0/82b/138">Josh Wills, Director of Data Science, Cloudera; followed by: Part 2- Data Integration (w/Open Refine Lab)</td>
+      <td>Part 1 - Guest Lecture: <a href="http://www.linkedin.com/pub/josh-wills/0/82b/138">Josh Wills, Director of Data Science, Cloudera</a>; followed by: Part 2- Data Integration (w/Open Refine Lab)</td>
       <td>
       </td>
       <td>
