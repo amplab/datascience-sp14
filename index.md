@@ -23,7 +23,7 @@ manipulate data sets with code.
 * Discussion: Join [Piazza](https://piazza.com/class/ho9kqs2efao27y) for
   announcements and to ask questions about the course
 * Office hours:
-  - Mike Franklin - T 2.30-3.30, Th 3.30-4.30 at 449 Soda
+  - Mike Franklin - T 3.30-4.30, Th 2.30-3.30 at 449 Soda
   - GSIs - M 2-3 at 449 Soda, W 11-12 at 751 Soda
 
 ## Pre-requisites
