@@ -101,20 +101,21 @@ Plese set up your machine according to [these instuctions](setup.html).
     <tr>
       <td>2/14</td>
       <td></td>
+      <td></td>
       <td><a href="http://goo.gl/Pkku0e">Homework 1</a> out. Due by 2/28</td>
-      <td>
-      </td>
+ 
     </tr>
     <tr>
       <td>2/17</td>
-      <td></td>
       <td>No class - President's Day</td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2/24</td>
       <td>Data Cleaning (w/Open Refine Lab)</td>
+      <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfR1RrSWwwbDNrVkk/edit?usp=sharing">[PPTX]</a>
+      <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfcENuLWE2UTlPMEk/edit?usp=sharing">[PDF]</a>
       <td>
       </td>
       <td>
@@ -125,9 +126,8 @@ Plese set up your machine according to [these instuctions](setup.html).
     <tr>
       <td>2/28</td>
       <td></td>
-      <td><a href="http://goo.gl/Pkku0e">Homework 1</a> Due ! Submit using glookup</td>
-      <td>
-      </td>
+      <td></td>
+      <td><a href="http://goo.gl/Pkku0e">Homework 1</a> Due! Submit using glookup</td>
     </tr>
         <tr>
       <td>2/24</td>
