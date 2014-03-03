@@ -113,9 +113,10 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
     <tr>
       <td>2/24</td>
-      <td>Data Cleaning (w/Open Refine Lab)</td>
+      <td>Data Cleaning (w/Open Refine Lab)
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfR1RrSWwwbDNrVkk/edit?usp=sharing">[PPTX]</a>
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfcENuLWE2UTlPMEk/edit?usp=sharing">[PDF]</a>
+      </td>
       <td>
       </td>
       <td>
@@ -132,7 +133,9 @@ Plese set up your machine according to [these instuctions](setup.html).
         <tr>
       <td>2/24</td>
       <td>Part 1 - Guest Lecture: <a href="http://www.linkedin.com/pub/josh-wills/0/82b/138">Josh Wills, Director of Data Science, Cloudera</a>; followed by: Part 2- Data Integration (w/Open Refine Lab)</td>
-      <td>
+      <td><a href="http://yz.mit.edu/papers/webtables-vldb08.pdf">WebTables: Exploring the Power of Tables on the Web (Sections 1,2 and 4; others optional)</a>
+        <br>
+        and <a href="http://www.youtube.com/watch?v=5tsyz3ibYzk">OpenRefine Data Augmentation (video)</a>
       </td>
       <td>
       </td>
