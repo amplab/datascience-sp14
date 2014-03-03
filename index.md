@@ -132,7 +132,9 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
         <tr>
       <td>M 3/3</td>
-      <td>L5: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/pub/josh-wills/0/82b/138">Josh Wills, Director of Data Science, Cloudera</a>; followed by: Part 2- Data Integration (w/Open Refine Lab)</td>
+      <td>L5: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/pub/josh-wills/0/82b/138">Josh Wills, Director of Data Science, Cloudera</a>; followed by: 
+      <br>
+      Part 2- Data Integration (w/Open Refine Lab)</td>
       <td><a href="http://yz.mit.edu/papers/webtables-vldb08.pdf">WebTables: Exploring the Power of Tables on the Web (Sections 1,2 and 4; others optional)</a>
         <br>
         and <a href="http://www.youtube.com/watch?v=5tsyz3ibYzk">OpenRefine Data Augmentation (video)</a>
