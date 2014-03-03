@@ -57,8 +57,8 @@ Plese set up your machine according to [these instuctions](setup.html).
   </thead>
   <tbody>
     <tr>
-      <td>1/27</td>
-      <td>Introduction/Data Science Process
+      <td>M 1/27</td>
+      <td>L1: Introduction/Data Science Process
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfWi1XNTBpVXh5Vms/edit?usp=sharing">[PPTX]</a>
         
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfajJPcURYcTJHekk/edit?usp=sharing">[PDF]</a>
@@ -67,8 +67,8 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td></td>
     </tr>
     <tr>
-      <td>2/3</td>
-      <td>Data Preparation  (w/Unix Shell Lab)
+      <td>M 2/3</td>
+      <td>L2: Data Preparation  (w/Unix Shell Lab)
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfYjQ5d0pzTDRFR0k/edit?usp=sharing">[PPTX]</a>
         
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfN24xejYyc1JCMkk/edit?usp=sharing">[PDF]</a>
@@ -82,8 +82,8 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
     </tr>
     <tr>
-      <td>2/10</td>
-      <td>Tabular Data (w/Pandas Lab) 
+      <td>M 2/10</td>
+      <td>L3: Tabular Data (w/Pandas Lab) 
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfOHRmTkxQYmhWdHM/edit?usp=sharing">[PPTX]</a>
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfR1BPeFlETndrLXc/edit?usp=sharing">[PDF]</a>
       </td>
@@ -99,21 +99,21 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
     </tr>
     <tr>
-      <td>2/14</td>
+      <td>F 2/14</td>
       <td></td>
       <td></td>
       <td><a href="http://goo.gl/Pkku0e">Homework 1</a> out. Due by 2/28</td>
  
     </tr>
     <tr>
-      <td>2/17</td>
+      <td>M 2/17</td>
       <td>No class - President's Day</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2/24</td>
-      <td>Data Cleaning (w/Open Refine Lab)
+      <td>M 2/24</td>
+      <td>L4: Data Cleaning (w/Open Refine Lab)
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfR1RrSWwwbDNrVkk/edit?usp=sharing">[PPTX]</a>
       <a href="https://drive.google.com/a/berkeley.edu/file/d/0B5q5EyRrPiIfcENuLWE2UTlPMEk/edit?usp=sharing">[PDF]</a>
       </td>
@@ -125,21 +125,40 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
     </tr>
     <tr>
-      <td>2/28</td>
+      <td>F 2/28</td>
       <td></td>
       <td></td>
       <td><a href="http://goo.gl/Pkku0e">Homework 1</a> Due! Submit using glookup</td>
     </tr>
         <tr>
-      <td>2/24</td>
-      <td>Part 1 - Guest Lecture: <a href="http://www.linkedin.com/pub/josh-wills/0/82b/138">Josh Wills, Director of Data Science, Cloudera</a>; followed by: Part 2- Data Integration (w/Open Refine Lab)</td>
+      <td>M 3/3</td>
+      <td>L5: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/pub/josh-wills/0/82b/138">Josh Wills, Director of Data Science, Cloudera</a>; followed by: Part 2- Data Integration (w/Open Refine Lab)</td>
       <td><a href="http://yz.mit.edu/papers/webtables-vldb08.pdf">WebTables: Exploring the Power of Tables on the Web (Sections 1,2 and 4; others optional)</a>
         <br>
         and <a href="http://www.youtube.com/watch?v=5tsyz3ibYzk">OpenRefine Data Augmentation (video)</a>
       </td>
       <td>
+      <a href="https://docs.google.com/a/berkeley.edu/forms/d/1iJNN8LVeqJl2fAZhdKuhbQWWWS31Sz18GlocQozOXSQ/viewform">Bunny 3</a> by 5pm on 3/3
       </td>
     </tr>
+    <tr>
+      <td>M 3/10</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>  
+    <tr>
+      <td>M 3/17</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>M 3/24</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr> 
   </tbody>
   </tbody>
 </table>
