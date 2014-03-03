@@ -146,19 +146,43 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
     <tr>
       <td>M 3/10</td>
-      <td></td>
+      <td>L6</td>
       <td></td>
       <td>Final Project Proposals due Midnight</td>
     </tr>  
     <tr>
       <td>M 3/17</td>
-      <td></td>
+      <td>L7</td>
       <td></td>
       <td></td>
     </tr> 
     <tr>
       <td>M 3/24</td>
+      <td>No Lecture: Spring Break</td>
       <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>M 4/7</td>
+      <td>L8</td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>M 4/14</td>
+      <td>L9</td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>M 4/21</td>
+      <td>L10</td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>M 4/28</td>
+      <td>L11</td>
       <td></td>
       <td></td>
     </tr> 
