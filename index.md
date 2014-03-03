@@ -140,14 +140,15 @@ Plese set up your machine according to [these instuctions](setup.html).
         and <a href="http://www.youtube.com/watch?v=5tsyz3ibYzk">OpenRefine Data Augmentation (video)</a>
       </td>
       <td>
-      <a href="https://docs.google.com/a/berkeley.edu/forms/d/1iJNN8LVeqJl2fAZhdKuhbQWWWS31Sz18GlocQozOXSQ/viewform">Bunny 3</a> by 5pm on 3/3
+      <a href="https://docs.google.com/a/berkeley.edu/forms/d/1iJNN8LVeqJl2fAZhdKuhbQWWWS31Sz18GlocQozOXSQ/viewform">Bunny 3</a> by 5pm;
+      <br> Final Project Group Lists Due Midnight 
       </td>
     </tr>
     <tr>
       <td>M 3/10</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Final Project Proposals due Midnight</td>
     </tr>  
     <tr>
       <td>M 3/17</td>
