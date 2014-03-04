@@ -144,6 +144,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
       <td>
       <a href="https://docs.google.com/a/berkeley.edu/forms/d/1iJNN8LVeqJl2fAZhdKuhbQWWWS31Sz18GlocQozOXSQ/viewform">Bunny 3</a> by 5pm;
+      <br> <a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab4/joins.ipynb">Lab 4</a> | <a href="http://goo.gl/ZgfzAN">Responses</a>
       <br> Final Project Group Lists Due Midnight 
       </td>
     </tr>
