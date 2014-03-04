@@ -167,26 +167,32 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td></td>
     </tr> 
     <tr>
-      <td>M 4/7</td>
+      <td>M 3/31</td>
       <td>L8</td>
       <td></td>
       <td></td>
     </tr> 
     <tr>
-      <td>M 4/14</td>
+      <td>M 4/7</td>
       <td>L9</td>
       <td></td>
       <td></td>
     </tr> 
     <tr>
-      <td>M 4/21</td>
+      <td>M 4/14</td>
       <td>L10</td>
       <td></td>
       <td></td>
     </tr> 
     <tr>
-      <td>M 4/28</td>
+      <td>M 4/21</td>
       <td>L11</td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>M 4/28</td>
+      <td>L12</td>
       <td></td>
       <td></td>
     </tr> 
