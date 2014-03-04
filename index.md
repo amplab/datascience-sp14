@@ -121,7 +121,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
       <td>
         <a href="https://github.com/amplab/datascience-sp14/tree/master/lab3">Lab 3</a>
-        | <a href="http://goo.gl/fyzN4G">Responses</a>
+        <!-- | <a href="http://goo.gl/fyzN4G">Responses</a> -->
       </td>
     </tr>
     <tr>
