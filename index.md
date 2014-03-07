@@ -40,7 +40,7 @@ Plese set up your machine according to [these instuctions](setup.html).
 
 * Class Participation and in-class labs: 20%
 * Midterm: 20%
-* Final Project (in groups): 25%  Final Project Information is [Here]("finalproject.html")
+* Final Project (in groups): 25%  Final Project Information is [Here](finalproject.html)
 * Homeworks : 30%
 * "Bunnies" : 5%
 
