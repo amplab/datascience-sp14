@@ -28,8 +28,11 @@ We understand that these proposals are preliminary.  We will meet with the proje
 For some inspiration, you can have a look at the slides from the [presentations of the 2011 offering of 194-16](http://datascienc.es/2011final-project/)  (note that the requirements were somewhat different that year)
 
 There are lots of places collecting interesting data sets or pointers - here are a few: 
+
 [Stanford 224w Page](http://www.stanford.edu/class/cs224w/resources.html)
+
 [Quandl - Find Use and Share numerical data](www.quandl.com)
+
 [Amazon Public Data Sets](http://aws.amazon.com/publicdatasets/)
 
 If you find other good sources of available data, please post to the piazza group.
