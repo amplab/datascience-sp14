@@ -40,7 +40,7 @@ Plese set up your machine according to [these instuctions](setup.html).
 
 * Class Participation and in-class labs: 20%
 * Midterm: 20%
-* Final Project (in groups): 25%
+* Final Project (in groups): 25%  Final Project Information is [Here]("finalproject.html")
 * Homeworks : 30%
 * "Bunnies" : 5%
 
@@ -150,9 +150,9 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
     <tr>
       <td>M 3/10</td>
-      <td>L6</td>
+      <td>L6: Exploratory Data Analysis (with Python lab)</td>
       <td></td>
-      <td>Final Project Proposals due Midnight</td>
+      <td>Final Project Proposals due Tues 3/11 Midnight</td>
     </tr>  
     <tr>
       <td>M 3/17</td>
