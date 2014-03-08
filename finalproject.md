@@ -1,3 +1,8 @@
+---
+title: Final Projects
+layout: default
+---
+
 #CS 194-16 Introduction to Data Science, Spring 2014 – Final Projects
 
 The final projects for this class are to be done in groups of 3 students (or 2 with special permission).   The idea is to perform an end-to-end data science project of your choosing.   The idea is to exercise the entire data science lifecycle. 
