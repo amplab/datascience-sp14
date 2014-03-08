@@ -151,8 +151,12 @@ Plese set up your machine according to [these instuctions](setup.html).
     <tr>
       <td>M 3/10</td>
       <td>L6: Exploratory Data Analysis (with Python lab)</td>
-      <td></td>
-      <td>Final Project Proposals due Tues 3/11 Midnight</td>
+      <td><a href="http://proquest.safaribooksonline.com/9781449363871/_statistical_thinking_in_the_age_of_big_data_html">Statistical Thinking in the Age of Big Data</a>
+      <br><a href="http://proquest.safaribooksonline.com/9781449363871/_exploratory_data_analysis_html">Exploratory Data Analysis</a><br>
+      From the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br><br>
+      <a href="http://www.sagepub.com/upm-data/40007_Chapter8.pdf">Introduction to Hypothesis Testing</a>
+      </td>
+      <td><a href="http://goo.gl/tiHqU2">Bunny 4</a> by 5pm;<br>Final Project Proposals due Tues 3/11 Midnight.</td>
     </tr>  
     <tr>
       <td>M 3/17</td>
