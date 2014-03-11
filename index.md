@@ -165,7 +165,7 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>  
     <tr>
       <td>M 3/17</td>
-      <td>L7</td>
+      <td>L7: Regression, Classification, intro to Supervised Learning (with R Lab)</td>
       <td></td>
       <td></td>
     </tr> 
