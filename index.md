@@ -156,7 +156,9 @@ Plese set up your machine according to [these instuctions](setup.html).
       From the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br><br>
       <a href="http://www.sagepub.com/upm-data/40007_Chapter8.pdf">Introduction to Hypothesis Testing</a>
       </td>
-      <td><a href="http://goo.gl/tiHqU2">Bunny 4</a> by 5pm;<br>Final Project Proposals due Tues 3/11 Midnight.</td>
+      <td><a href="http://goo.gl/tiHqU2">Bunny 4</a> by 5pm;
+      <br><a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab5/lab5.ipynb">Lab 5</a> | <a href="http://goo.gl/ZDS8Rb">Responses</a>
+      <br>Final Project Proposals due Tues 3/11 Midnight.</td>
     </tr>  
     <tr>
       <td>M 3/17</td>
