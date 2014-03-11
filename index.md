@@ -150,7 +150,10 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
     <tr>
       <td>M 3/10</td>
-      <td>L6: Exploratory Data Analysis (with Python lab)</td>
+      <td>L6: Exploratory Data Analysis (with Python lab)
+       <a href="http://goo.gl/8w8Mkb">[PPTX]</a>
+       <a href="http://goo.gl/rikI8i">[PDF]</a>
+      </td>
       <td><a href="http://proquest.safaribooksonline.com/9781449363871/_statistical_thinking_in_the_age_of_big_data_html">Statistical Thinking in the Age of Big Data</a>
       <br><a href="http://proquest.safaribooksonline.com/9781449363871/_exploratory_data_analysis_html">Exploratory Data Analysis</a><br>
       From the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br><br>
