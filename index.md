@@ -164,6 +164,12 @@ Plese set up your machine according to [these instuctions](setup.html).
       <br>Final Project Proposals due Tues 3/11 Midnight.</td>
     </tr>  
     <tr>
+      <td>T 3/11</td>
+      <td></td>
+      <td></td>
+      <td><a href="http://goo.gl/Jpneux">Homework 2</a> out. Due by 4/1</td>
+    </tr>
+    <tr>
       <td>M 3/17</td>
       <td>L7: Regression, Classification, intro to Supervised Learning (with R Lab)</td>
       <td></td>
