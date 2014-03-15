@@ -172,8 +172,11 @@ Plese set up your machine according to [these instuctions](setup.html).
     <tr>
       <td>M 3/17</td>
       <td>L7: Regression, Classification, intro to Supervised Learning (with R Lab)</td>
-      <td></td>
-      <td></td>
+      <td><a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/3dot-algorithms/_three_basic_algorithms_html"> Three Basic Algorithms</a>
+      From the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
+      </td>
+      <td><a href="http://goo.gl/y4IvKu">Bunny 5</a> by 5pm
+      </td>
     </tr> 
     <tr>
       <td>M 3/24</td>
