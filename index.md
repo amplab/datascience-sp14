@@ -41,7 +41,8 @@ Plese set up your machine according to [these instuctions](setup.html).
 * Class Participation and in-class labs: 20%
 * Midterm: 20%
 * Final Project (in groups): 25%  Final Project Information is [Here](finalproject.html)
-* Homeworks : 30%
+* Homeworks : 30%  (3 @ 10% each: <a href="http://goo.gl/Pkku0e">Homework 1</a>; 
+                                  <a href="http://goo.gl/Jpneux">Homework 2</a>; Homework 3)  
 * "Bunnies" : 5%
 
 ## Schedule
