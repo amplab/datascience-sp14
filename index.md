@@ -176,7 +176,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td><a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/3dot-algorithms/_three_basic_algorithms_html"> Three Basic Algorithms</a>
       From the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
       </td>
-      <td><a href="http://goo.gl/y4IvKu">Bunny 5</a> by 5pm
+      <td><a href="http://goo.gl/y4IvKu">Bunny 5</a> by 5pm <br>
           <a href="https://github.com/amplab/datascience-sp14/tree/master/lab6">Lab 6</a> | <a href="http://goo.gl/7kUpAb">Responses</a>
       </td>
     </tr> 
