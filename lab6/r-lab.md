@@ -178,7 +178,7 @@ horsepower (hp).
 ### Scatter plot
 First to see if we have a linear relation or not, lets do a scatter plot of mpg vs. hp
 ```
-  plot(mpg, hp)
+  plot(hp, mpg)
 ```
 From the plot we can see that we have something that looks like a linear relationship.
 
