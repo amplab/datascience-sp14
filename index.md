@@ -177,6 +177,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       From the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
       </td>
       <td><a href="http://goo.gl/y4IvKu">Bunny 5</a> by 5pm
+          <a href="https://github.com/amplab/datascience-sp14/tree/master/lab6">Lab 6</a> | <a href="http://goo.gl/7kUpAb">Responses</a>
       </td>
     </tr> 
     <tr>
