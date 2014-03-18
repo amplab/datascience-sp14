@@ -35,7 +35,7 @@ below and multiply them.
   m <- matrix(nrow=5, ncol=2, data=1.0)
   v <- c(1.5, 0.5)
   r <- m %*% v
-  z
+  r
 ```
 * **Printing variables**: To print a variable, just type in the variables name !
 * **Mathematical operations**: R includes a number of mathematical operators such as log, exp etc.
