@@ -145,7 +145,8 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
       <td>
       <a href="https://docs.google.com/a/berkeley.edu/forms/d/1iJNN8LVeqJl2fAZhdKuhbQWWWS31Sz18GlocQozOXSQ/viewform">Bunny 3</a> by 5pm;
-      <br> <a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab4/joins.ipynb">Lab 4</a> | <a href="http://goo.gl/ZgfzAN">Responses</a>
+      <br> <a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab4/joins.ipynb">Lab 4</a> 
+      <!-- | <a href="http://goo.gl/ZgfzAN">Responses</a> -->
       <br> <a href="http://goo.gl/YFnAmH">Final Project Group Lists</a> Due Midnight 
       </td>
     </tr>
@@ -161,7 +162,8 @@ Plese set up your machine according to [these instuctions](setup.html).
       <a href="http://www.sagepub.com/upm-data/40007_Chapter8.pdf">Introduction to Hypothesis Testing</a>
       </td>
       <td><a href="http://goo.gl/tiHqU2">Bunny 4</a> by 5pm;
-      <br><a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab5/lab5.ipynb">Lab 5</a> | <a href="http://goo.gl/ZDS8Rb">Responses</a>
+      <br><a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab5/lab5.ipynb">Lab 5</a>
+      <!-- | <a href="http://goo.gl/ZDS8Rb">Responses</a> -->
       <br>Final Project Proposals due Tues 3/11 Midnight.</td>
     </tr>  
     <tr>
@@ -177,7 +179,8 @@ Plese set up your machine according to [these instuctions](setup.html).
       From the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
       </td>
       <td><a href="http://goo.gl/y4IvKu">Bunny 5</a> by 5pm <br>
-          <a href="https://github.com/amplab/datascience-sp14/tree/master/lab6">Lab 6</a> | <a href="http://goo.gl/7kUpAb">Responses</a>
+          <a href="https://github.com/amplab/datascience-sp14/tree/master/lab6">Lab 6</a> 
+          <!-- | <a href="http://goo.gl/7kUpAb">Responses</a> --> 
       </td>
     </tr> 
     <tr>
@@ -192,6 +195,12 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td></td>
       <td></td>
     </tr> 
+    <tr>
+      <td>T 4/1</td>
+      <td></td>
+      <td></td>
+      <td><a href="http://goo.gl/Jpneux">Homework 2</a> Due. Submit using glookup</td>
+    </tr>
     <tr>
       <td>M 4/7</td>
       <td>L9</td>
