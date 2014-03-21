@@ -174,7 +174,11 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
     <tr>
       <td>M 3/17</td>
-      <td>L7: Regression, Classification, intro to Supervised Learning (with R Lab)</td>
+      <td>L7: Regression, Classification, intro to Supervised Learning (with R Lab)<br>
+        Part 1:<a href="http://goo.gl/WKx4jz">[PPTX]</a> <a href="http://goo.gl/8EFuWI">[PDF]</a>
+        Part 2:<a href="http://goo.gl/GNnU8i">[PPTX]</a> <a href="http://goo.gl/CGgRY7">[PDF]</a><br>
+        <a href="http://goo.gl/Hh6CwR">Homework Tips</a>
+      </td>
       <td><a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/3dot-algorithms/_three_basic_algorithms_html"> Three Basic Algorithms</a>
       From the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
       </td>
@@ -191,9 +195,14 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr> 
     <tr>
       <td>M 3/31</td>
-      <td>L8</td>
-      <td></td>
-      <td></td>
+      <td>L8: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/in/peterskomoroch">Peter Skomooroch</a>; followed by:
+      <br>
+        Part2 - Unsupervised Learning and K-Means Clustering (in Python)
+      </td>
+      <td>K-Nearest Neighbors and K-Means clustering from <a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/3dot-algorithms/_three_basic_algorithms_html"> Three Basic Algorithms</a>.
+      Part of the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
+      </td>
+      <td>No Bunny !</td>
     </tr> 
     <tr>
       <td>T 4/1</td>
