@@ -223,6 +223,12 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td></td>
     </tr> 
     <tr>
+      <td>Th 4/17</td>
+      <td></td>
+      <td></td>
+      <td>Midterm - 6.00 to 7.30 pm</td>
+    </tr> 
+    <tr>
       <td>M 4/21</td>
       <td>L11</td>
       <td></td>
