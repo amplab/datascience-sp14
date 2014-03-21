@@ -195,7 +195,7 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr> 
     <tr>
       <td>M 3/31</td>
-      <td>L8: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/in/peterskomoroch">Peter Skomooroch</a>; followed by:
+      <td>L8: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/in/peterskomoroch">Peter Skomoroch</a>; followed by:
       <br>
         Part2 - Unsupervised Learning and K-Means Clustering (in Python)
       </td>
@@ -212,13 +212,13 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr>
     <tr>
       <td>M 4/7</td>
-      <td>L9</td>
+      <td>L9: Scaling Up Analytics (with Spark/EC2 Lab and a special guest lecturer)</td>
       <td></td>
       <td></td>
     </tr> 
     <tr>
       <td>M 4/14</td>
-      <td>L10</td>
+      <td>L10: Visualization (D3 lab)</td>
       <td></td>
       <td></td>
     </tr> 
@@ -230,13 +230,13 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr> 
     <tr>
       <td>M 4/21</td>
-      <td>L11</td>
+      <td>L11: Graph Processing (with GraphX Lab and a special guest)</td>
       <td></td>
       <td></td>
     </tr> 
     <tr>
       <td>M 4/28</td>
-      <td>L12</td>
+      <td>L12: Putting it All Together</td>
       <td></td>
       <td></td>
     </tr> 
