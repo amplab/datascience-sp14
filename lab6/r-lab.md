@@ -35,7 +35,7 @@ below and multiply them.
   m <- matrix(nrow=5, ncol=2, data=1.0)
   v <- c(1.5, 0.5)
   r <- m %*% v
-  z
+  r
 ```
 * **Printing variables**: To print a variable, just type in the variables name !
 * **Mathematical operations**: R includes a number of mathematical operators such as log, exp etc.
@@ -178,7 +178,7 @@ horsepower (hp).
 ### Scatter plot
 First to see if we have a linear relation or not, lets do a scatter plot of mpg vs. hp
 ```
-  plot(mpg, hp)
+  plot(hp, mpg)
 ```
 From the plot we can see that we have something that looks like a linear relationship.
 
