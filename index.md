@@ -203,7 +203,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       Part of the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
       </td>
       <td>No Bunny ! <br> 
-          <a href="http://goo.gl/THdDHH">Lab 7</a>
+          <a href="http://goo.gl/nzDvVk">Lab 7</a>
           | <a href="http://goo.gl/PKUQio">Responses</a>
       </td>
     </tr> 
