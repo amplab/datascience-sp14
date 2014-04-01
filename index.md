@@ -202,7 +202,10 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>K-Nearest Neighbors and K-Means clustering from <a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/3dot-algorithms/_three_basic_algorithms_html"> Three Basic Algorithms</a>.
       Part of the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
       </td>
-      <td>No Bunny !</td>
+      <td>No Bunny ! <br> 
+          <a href="http://goo.gl/THdDHH">Lab 7</a>
+          | <a href="http://goo.gl/PKUQio">Responses</a>
+      </td>
     </tr> 
     <tr>
       <td>T 4/1</td>
