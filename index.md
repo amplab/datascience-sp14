@@ -204,7 +204,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
       <td>No Bunny ! <br> 
           <a href="http://goo.gl/nzDvVk">Lab 7</a>
-          | <a href="http://goo.gl/PKUQio">Responses</a>
+          <!--| <a href="http://goo.gl/PKUQio">Responses</a> -->
       </td>
     </tr> 
     <tr>
