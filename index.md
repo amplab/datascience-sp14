@@ -229,7 +229,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>Th 4/11</td>
       <td></td>
       <td></td>
-      <td>Project update due on glookup</td>
+      <td>Final Project update due on glookup</td>
     </tr> 
 
     <tr>
