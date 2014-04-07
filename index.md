@@ -226,6 +226,13 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td></td>
     </tr> 
     <tr>
+      <td>Th 4/11</td>
+      <td></td>
+      <td></td>
+      <td>Project update due on glookup</td>
+    </tr> 
+
+    <tr>
       <td>Th 4/17</td>
       <td></td>
       <td></td>
