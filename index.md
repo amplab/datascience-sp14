@@ -197,7 +197,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>M 3/31</td>
       <td>L8: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/in/peterskomoroch">Peter Skomoroch</a>; followed by:
       <br>
-        Part2 - Unsupervised Learning and K-Means Clustering (in Python)
+        Part2 - <a href="http://goo.gl/e50eqQ">Unsupervised Learning and K-Means Clustering </a> (in Python)
       </td>
       <td>K-Nearest Neighbors and K-Means clustering from <a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/3dot-algorithms/_three_basic_algorithms_html"> Three Basic Algorithms</a>.
       Part of the O'Reilly Book "Doing Data Science" - available on campus or via the library VPN.<br>
