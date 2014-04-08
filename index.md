@@ -220,16 +220,17 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td><a href="http://goo.gl/Q4S856">Bunny 9</a> by 5pm <br> <a href="http://goo.gl/013aI9"> Lab 8 </a></td>
     </tr> 
     <tr>
-      <td>M 4/14</td>
-      <td>L10: Visualization (D3 lab)</td>
-      <td></td>
-      <td></td>
-    </tr> 
-    <tr>
       <td>Th 4/11</td>
       <td></td>
       <td></td>
       <td>Final Project update due on glookup</td>
+    </tr> 
+
+    <tr>
+      <td>M 4/14</td>
+      <td>L10: Visualization (D3 lab)</td>
+      <td></td>
+      <td></td>
     </tr> 
 
     <tr>
