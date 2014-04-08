@@ -217,7 +217,8 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>M 4/7</td>
       <td>L9: Scaling Up Analytics (with Spark/EC2 Lab and a special guest lecturer) <a href="http://goo.gl/l4Stce">[PDF]</a> <a href="http://goo.gl/M23eAE">[PPTX]</a></td>
       <td>"MapReduce," "Word Frequency Problem", and "Other Examples of MapReduce" sections from O'Reilly "Doing Data Science" book (available <a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/14dot-data-engineering-mapreduce-pregel-and-hadoop/_mapreduce_html"> online</a> or from the library) and <a href="http://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf">Spark Short paper</a></td>
-      <td><a href="http://goo.gl/Q4S856">Bunny 9</a> by 5pm <br> <a href="http://goo.gl/013aI9"> Lab 8 </a></td>
+      <td><a href="http://goo.gl/Q4S856">Bunny 9</a> by 5pm <br> <a href="http://goo.gl/013aI9"> Lab 8 </a> <br>
+          <a href="http://goo.gl/gYtoVf">Homework 3, Part 1</a> Due 4/14</td>
     </tr> 
     <tr>
       <td>Th 4/11</td>
