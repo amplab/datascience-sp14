@@ -231,7 +231,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>M 4/14</td>
       <td>L10: Visualization (D3 lab)</td>
       <td></td>
-      <td></td>
+      <td><a href="http://goo.gl/gYtoVf">Homework 3, Part 1</a> due</td>
     </tr> 
 
     <tr>
