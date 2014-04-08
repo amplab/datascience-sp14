@@ -221,7 +221,7 @@ Plese set up your machine according to [these instuctions](setup.html).
           <a href="http://goo.gl/gYtoVf">Homework 3, Part 1</a> Due 4/14</td>
     </tr> 
     <tr>
-      <td>Th 4/11</td>
+      <td>F 4/11</td>
       <td></td>
       <td></td>
       <td>Final Project update due on glookup</td>
