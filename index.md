@@ -234,7 +234,10 @@ Plese set up your machine according to [these instuctions](setup.html).
         <a href="http://vis.stanford.edu/files/2011-D3-InfoVis.pdf">D3: Data Driven Documents</a> by Bostock et. al.<br>
         Optional: <a href="http://vis.berkeley.edu/courses/cs294-10-fa13/WWW/protected/challenger.pdf">Reading about how the challenger disaster may have been prevented with data visualization</a> by Edward Tufte<br>
       </td>
-      <td><a href="http://goo.gl/gYtoVf">Homework 3, Part 1</a> due</td>
+      <td>
+          <a href="http://goo.gl/FPYhKm">Bunny 10</a><br>
+          <a href="http://goo.gl/gYtoVf">Homework 3, Part 1</a> due
+      </td>
     </tr> 
     <tr>
       <td>Th 4/17</td>
