@@ -232,7 +232,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>
         <a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/9dot-data-visualization-and-fraud-detection/ch09_html">Chapter 9 on Data Visualization</a> from "Doing Data Science" available online or from the library.<br>
         <a href="http://vis.stanford.edu/files/2011-D3-InfoVis.pdf">D3: Data Driven Documents</a> by Bostock et. al.<br>
-        Optional: <a href="http://vis.berkeley.edu/courses/cs294-10-fa13/WWW/protected/challenger.pdf">Reading about how the challenger disaster may have been prevented with data visualization</a> by Edward Tufte<br>
+        Optional: <a href="http://goo.gl/Dx43fc">Reading about how the challenger disaster may have been prevented with data visualization</a> by Edward Tufte<br>
       </td>
       <td>
           <a href="http://goo.gl/FPYhKm">Bunny 10</a> by 5pm<br>
