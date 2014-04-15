@@ -229,8 +229,7 @@ Plese set up your machine according to [these instuctions](setup.html).
     <tr>
       <td>M 4/14</td>
       <td>
-          L10: Visualization (D3 lab)<br>
-          <a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab9/lab9.ipynb">Lab 10</a>
+          L10: Visualization (D3 lab)
       </td>
       <td>
         <a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/9dot-data-visualization-and-fraud-detection/ch09_html">Chapter 9 on Data Visualization</a> from "Doing Data Science" available online or from the library.<br>
@@ -239,7 +238,8 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
       <td>
           <a href="http://goo.gl/FPYhKm">Bunny 10</a> by 5pm<br>
-          <a href="http://goo.gl/gYtoVf">Homework 3, Part 1</a> due
+          <a href="http://goo.gl/gYtoVf">Homework 3, Part 1</a> due<br>
+          <a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab9/lab9.ipynb">Lab 10</a>
       </td>
     </tr> 
     <tr>
