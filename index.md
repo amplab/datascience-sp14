@@ -195,7 +195,7 @@ Plese set up your machine according to [these instuctions](setup.html).
     </tr> 
     <tr>
       <td>M 3/31</td>
-      <td>L8: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/in/peterskomoroch">Peter Skomoroch</a>; followed by:
+      <td>L8: Part 1 - Guest Lecture: <a href="http://www.linkedin.com/in/peterskomoroch">Peter Skomoroch</a>; Slides: <a href="http://goo.gl/NbQxvE">[PDF](29MB)</a>; followed by:
       <br>
         Part2 - <a href="http://goo.gl/e50eqQ">Unsupervised Learning and K-Means Clustering </a> (in Python)
       </td>
@@ -229,7 +229,7 @@ Plese set up your machine according to [these instuctions](setup.html).
     <tr>
       <td>M 4/14</td>
       <td>
-          L10: Visualization (D3 lab)
+          L10: Visualization (D3 lab)<a href="http://goo.gl/LWNBKw">[PPTX]</a> <a href="http://goo.gl/RKEsCP">[PDF]</a>
       </td>
       <td>
         <a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/9dot-data-visualization-and-fraud-detection/ch09_html">Chapter 9 on Data Visualization</a> from "Doing Data Science" available online or from the library.<br>
