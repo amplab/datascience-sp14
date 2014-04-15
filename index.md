@@ -229,7 +229,8 @@ Plese set up your machine according to [these instuctions](setup.html).
     <tr>
       <td>M 4/14</td>
       <td>
-          L10: Visualization (D3 lab)<a href="http://goo.gl/LWNBKw">[PPTX]</a> <a href="http://goo.gl/RKEsCP">[PDF]</a>
+          L10: Visualization (D3 lab)<a href="http://goo.gl/LWNBKw">[PPTX]</a> <a href="http://goo.gl/RKEsCP">[PDF]</a><br>
+          <a href="https://speakerdeck.com/alignedleft/learning-d3">Lab Slides</a>
       </td>
       <td>
         <a href="http://proquest.safaribooksonline.com/book/databases/9781449363871/9dot-data-visualization-and-fraud-detection/ch09_html">Chapter 9 on Data Visualization</a> from "Doing Data Science" available online or from the library.<br>
