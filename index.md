@@ -239,7 +239,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>
           <a href="http://goo.gl/FPYhKm">Bunny 10</a> by 5pm<br>
           <a href="http://goo.gl/gYtoVf">Homework 3, Part 1</a> due<br>
-          <a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab9/lab9.ipynb">Lab 10</a>
+          <a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/lab9/lab9.ipynb">Lab 9</a>
       </td>
     </tr> 
     <tr>
