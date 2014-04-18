@@ -250,6 +250,12 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>Midterm - 6.00 to 7.30 pm</td>
     </tr> 
     <tr>
+      <td>F 4/18</td>
+      <td></td>
+      <td></td>
+      <td><a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw3/hw3-part2.ipynb">Homework 3, Part 2</a> out.  Due by 4/25.</td>
+    </tr> 
+    <tr>
       <td>M 4/21</td>
       <td>L11: Graph Processing (with GraphX Lab); Guest Lecturers: <a href="http://www.cs.berkeley.edu/~jegonzal/">Joey Gonzalez</a> and <a href="https://github.com/dcrankshaw">Dan Crankshaw</a>  </td>
       <td><a href="https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf">Chapter 2</a> from "Networks, Crowds, and Markets: Reasoning About a Highly Connected World"
@@ -257,6 +263,12 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>
         <a href="http://goo.gl/WnPMZG">Bunny 11</a> by 5pm
       </td>
+    </tr>
+    <tr>
+      <td>F 4/25</td>
+      <td></td>
+      <td></td>
+      <td><a href="http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw3/hw3-part2.ipynb">Homework 3, Part 2</a> due</td>
     </tr> 
     <tr>
       <td>M 4/28</td>
