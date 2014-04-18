@@ -254,7 +254,9 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>L11: Graph Processing (with GraphX Lab); Guest Lecturers: <a href="http://www.cs.berkeley.edu/~jegonzal/">Joey Gonzalez</a> and <a href="https://github.com/dcrankshaw">Dan Crankshaw</a>  </td>
       <td><a href="https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf">Chapter 2</a> from "Networks, Crowds, and Markets: Reasoning About a Highly Connected World"
       </td>
-      <td></td>
+      <td>
+        <a href="http://goo.gl/WnPMZG">Bunny 11</a> by 5pm
+      </td>
     </tr> 
     <tr>
       <td>M 4/28</td>
