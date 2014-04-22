@@ -261,7 +261,8 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td><a href="https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf">Chapter 2</a> from "Networks, Crowds, and Markets: Reasoning About a Highly Connected World"
       </td>
       <td>
-        <a href="http://goo.gl/WnPMZG">Bunny 11</a> by 5pm
+        <a href="http://goo.gl/WnPMZG">Bunny 11</a> by 5pm<br>
+        <a href="http://goo.gl/MNC56V">Lab 10</a> | <a href="http://goo.gl/VzFGkH">Responses<a/>
       </td>
     </tr>
     <tr>
