@@ -43,7 +43,7 @@ In the `lab10/` subdirectory there are two files: `spark-env.sh` and `log4j.prop
 For example, if the root of my Spark directory is `/home/saasbook/spark-0.9.1-bin-cdh4`, I would do:
 
 ```bash
-cp /home/saasbook/datascience-labs/lab10/{spark-env.sh,log4j.properties} /home/saasbook/spark-0.9.1-bin-cdh4/conf/
+cp /home/saasbook/datascience-sp14/lab10/{spark-env.sh,log4j.properties} /home/saasbook/spark-0.9.1-bin-cdh4/conf/
 ```
 
 The `log4j.properties` file changes the default logging setting from `INFO` to `WARN`, which will remove some of the more verbose Spark logging messages. The `spark-env.sh` file specifies a custom serializer for Spark to use and some additional settings for serialization. These are necessary for GraphX to properly serialize and deserialize its data structures.
