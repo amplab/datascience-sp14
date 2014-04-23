@@ -264,7 +264,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       </td>
       <td>
         <a href="http://goo.gl/WnPMZG">Bunny 11</a> by 5pm<br>
-        <a href="http://goo.gl/MNC56V">Lab 10</a> | <a href="http://goo.gl/VzFGkH">Responses<a/>
+        <a href="http://goo.gl/MNC56V">Lab 10</a> <!-- | <a href="http://goo.gl/VzFGkH">Responses<a/> -->
       </td>
     </tr>
     <tr>
