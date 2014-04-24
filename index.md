@@ -3,7 +3,7 @@ title: CS194-16 Introduction to Data Science
 layout: default
 ---
 
-# CS 194-16 Introduction to Data Science - UC Berkeley, Spring 2014
+# CS 1/294-16 Introduction to Data Science - UC Berkeley, Spring 2014
 
 Organizations use their data for decision support and to build data-intensive
 products and services. The collection of skills required by organizations to
@@ -15,7 +15,7 @@ manipulate data sets with code.
 
 ## Logistics
 
-* Course Number: CS 194-16, Spring 2014, UC Berkeley
+* Course Number: CS 194-16, CS 294-16 Spring 2014, UC Berkeley
 * Instructor: [Mike Franklin](http://cs.berkeley.edu/~franklin)
 * Time: Monday, 5.30pm - 8.30pm
 * Location: 145 Moffit
