@@ -277,7 +277,7 @@ Plese set up your machine according to [these instuctions](setup.html).
       <td>M 4/28</td>
       <td>L12: Putting it All Together</td>
       <td></td>
-      <td></td>
+      <td><a href="http://goo.gl/PoLg6p">Bunny 12</a> by 5pm</td>
     </tr> 
   </tbody>
   </tbody>
