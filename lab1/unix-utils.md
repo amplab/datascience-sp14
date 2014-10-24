@@ -33,7 +33,7 @@ start with "py".
 
 Understanding what files/directories are using space on the file system is a
 problem that people have been dealing with since UNIX was invented. According to
-the man page for `du`, "A `du` command appeared in Version 1 AT&T UNIX."
+the main page for `du`, "A `du` command appeared in Version 1 AT&T UNIX."
 
 `du` allows you to report usage statistics of files and directories in your
 system. By default, it reports its usage statistics at the block level, but the
